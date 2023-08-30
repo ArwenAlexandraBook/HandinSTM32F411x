@@ -1,0 +1,2 @@
+My_stm32f4_uart_lib.h är headerfilen för projektet där funktioner för att kommunicera med UART finns. 
+My_stm32f4_uart_lib.c är implementationsfilen innehållandes UART funktioner. 
